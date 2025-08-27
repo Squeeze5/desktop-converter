@@ -56,7 +56,7 @@ python main.py
     contain non-Latin characters.
 -   First-time builds may take longer.
 -   Currently supported only on Windows. For Linux/macOS, adjust the
-    build process accordingly.
+    build process accordingly. Later will be added Linux/macOS support.
 
 ## 📝 License
 
